@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new note.md",
+                "file": "Research/Environment Maps/Environment Maps And Their Applications.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new note.md",
+                "file": "Research/Environment Maps/Environment Maps And Their Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new note.md",
+                "file": "Research/Environment Maps/Environment Maps And Their Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new note.md"
+                "file": "Research/Environment Maps/Environment Maps And Their Applications.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "8529afff852a9e31",
   "lastOpenFiles": [
-    "new note.md"
+    "Graphics/Interactive Graphics Course/Lecture 2 - Images & Transformations.md",
+    "Research/Environment Maps/Environment Maps And Their Applications.md",
+    "Graphics/Untitled.md",
+    "Graphics/Interactive Graphics Course",
+    "new note.md",
+    "Graphics",
+    "Research/Environment Maps",
+    "Research"
   ]
 }
