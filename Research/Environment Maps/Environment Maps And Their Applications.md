@@ -27,4 +27,4 @@ Environment maps represent directional information as 2D texture, meaning there 
 
 ## Spherical Maps
 
-Imageine small, fully specular metal ball centered around the object. The image an orthographic camera sees is on the metal ball.
+Imagine a small, fully specular metal ball centered around the object. The image an orthographic camera sees is on the metal ball.

@@ -257,7 +257,7 @@ This is what you're already used to where there is an image plane.
 
 ![[Pasted image 20240726231559.png|350]]
 
-This will be transformed into the canonical volume
+This will be transformed into the canonical view volume
 
 ![[Pasted image 20240726231813.png]]
 
