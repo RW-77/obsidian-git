@@ -11,13 +11,26 @@
             "id": "ff7e8190433a78dd",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Environment Maps/Environment Maps And Their Applications.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbb28160f0a5d698",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "Graphics/Metal/Pasted image 20240804101905.png"
+                "file": "Graphics/atttachments/Pasted image 20240805165156.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics/Metal/Pasted image 20240804101905.png",
+                "file": "Graphics/atttachments/Pasted image 20240805165156.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics/Metal/Pasted image 20240804101905.png",
+                "file": "Graphics/atttachments/Pasted image 20240805165156.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphics/Metal/Pasted image 20240804101905.png"
+                "file": "Graphics/atttachments/Pasted image 20240805165156.png"
               }
             }
           }
@@ -144,26 +157,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff7e8190433a78dd",
+  "active": "7a7134991a1c9041",
   "lastOpenFiles": [
+    "Graphics/atttachments",
+    "Research/Environment Maps/ECEN Advising Notes.md",
+    "Research/Environment Maps/Pasted image 20240806091402.png",
+    "Research/Environment Maps/Pasted image 20240806091337.png",
+    "Research/Environment Maps/Pasted image 20240806091200.png",
+    "Research/Environment Maps/Pasted image 20240806091157.png",
+    "Research/Environment Maps/Environment Maps And Their Applications.md",
+    "Graphics/Graphics Coordinate Transformation Pipeline.md",
+    "Graphics/atttachments/Pasted image 20240805165156.png",
+    "Graphics/Interactive Graphics Course/attachments/Pasted image 20240727131756.png",
+    "Graphics/Metal/attachments/Pasted image 20240804101905.png",
+    "Graphics/Metal/attachments",
     "Graphics/Metal/Metal Tutorial.md",
     "Graphics/Interactive Graphics Course/Lecture 2 - Images & Transformations.md",
     "Graphics/Interactive Graphics Course/Lecture 3 - Rendering Algorithms.md",
     "Graphics/Interactive Graphics Course/Lecture 4 - Windowing APIs.md",
-    "Research/Environment Maps/Environment Maps And Their Applications.md",
-    "Graphics/Metal/Pasted image 20240804101905.png",
     "Graphics/Metal",
-    "Graphics/Interactive Graphics Course/Pasted image 20240727131756.png",
     "Graphics/Interactive Graphics Course/attachments/Pasted image 20240727102720.png",
     "Graphics/Interactive Graphics Course/Untitled",
     "Graphics/Interactive Graphics Course/attachments",
     "Graphics/Interactive Graphics Course/attachments/Pasted image 20240726235020.png",
     "Graphics/Interactive Graphics Course/attachments/Pasted image 20240726235017.png",
-    "Graphics/Interactive Graphics Course/attachments/Pasted image 20240726232922.png",
-    "Graphics/Interactive Graphics Course/attachments/Pasted image 20240726232544.png",
-    "Graphics/Interactive Graphics Course/attachments/Pasted image 20240726232338.png",
-    "Graphics/Interactive Graphics Course/attachments/Pasted image 20240726232123.png",
-    "Graphics/Interactive Graphics Course/attachments/Pasted image 20240726231813.png",
     "Graphics/test.md",
     "Graphics/Interactive Graphics Course",
     "new note.md",
